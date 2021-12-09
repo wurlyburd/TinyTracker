@@ -9,5 +9,3 @@ The files were created using:
 <a href="https://github.com/algorand/py-algorand-sdk">**py-algorand-sdk 1.9.0b1**</a>
 
 <a href="https://github.com/tinymanorg/tinyman-py-sdk">**tinyman-py-sdk 0.0.4**</a>
-
-edit here
